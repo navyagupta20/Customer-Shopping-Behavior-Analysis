@@ -45,7 +45,3 @@ Power BI
 - Introduce customer loyalty programs.
 - Optimize discount strategies.
 - Focus marketing on high-value customer segments.
-
-```
-
-⭐ **If you found this project useful, consider giving it a star!**
