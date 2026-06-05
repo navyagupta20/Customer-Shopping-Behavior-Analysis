@@ -1,7 +1,7 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
 ## **📌 Overview**
-Analyzed **3,900 customer transactions** to uncover shopping patterns, customer segments, subscription trends, and product performance. The project combines **Python, SQL, PostgreSQL, and Power BI** to generate actionable business insights.
+Analyzed **3,900 customer transactions** to uncover shopping patterns, customer segments, subscription trends, and product performance. The project combines **Python, SQL and Power BI** to generate actionable business insights.
 
 ---
 
